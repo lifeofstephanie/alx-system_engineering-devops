@@ -1,2 +1,2 @@
 #!/bin/bash
-betty
+chmod +x 3-new_owner
