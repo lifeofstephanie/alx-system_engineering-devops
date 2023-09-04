@@ -1,1 +1,2 @@
 #!/bin/bash
+sort | uniq -c | grep -oE "^\s*1\s+\S+" | sort
