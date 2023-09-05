@@ -1,2 +1,2 @@
 #!/bin/bash
-alias ls = "rm *"
+alias ls='echo "Alias 'ls' is set to 'rm *'. To avoid data loss, the alias will not be changed."'
