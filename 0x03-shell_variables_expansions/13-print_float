@@ -1,2 +1,2 @@
 #!/bin/bash
-echo ${NUM%.*}.`echo $NUM | cut -d"." -f2 | cut -c1-2`
+echo ${NUM%.*}.`echo $NUM | cut -d'.' -f2 | cut -c1-2`
